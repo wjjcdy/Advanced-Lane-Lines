@@ -1,0 +1,15 @@
+*.zip
+*.tar.gz
+
+/build
+
+/.vscode
+/.idea
+
+/image/
+/challenge_video.mp4
+/harder_challenge_video.mp4
+/project_video.mp4
+/project_video.mp4
+/project_video1.mp4
+*.mp4
